@@ -1,0 +1,23 @@
+.container{
+    background-color: rgb(231, 218, 186);
+    margin: 150px;
+    height: auto;
+    
+}
+
+.title-1 {
+    color: black;
+    text-align: center; 
+    font-family: 'alex brush';
+    font-size: 5vw;
+}
+
+
+.content-letter{
+    margin-bottom: 10px;
+    line-height: 2.0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px; 
+    font-weight: normal;
+           
+}
