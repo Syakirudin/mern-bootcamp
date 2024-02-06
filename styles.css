@@ -1,23 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    margin: 30px auto;
+}
+
 .container{
-    background-color: rgb(231, 218, 186);
-    margin: 150px;
-    height: auto;
-    
+    margin: 10px;
 }
 
-.title-1 {
-    color: black;
-    text-align: center; 
-    font-family: 'alex brush';
-    font-size: 5vw;
-}
-
-
-.content-letter{
+.container > div{
+    width: 100px;
+    height: 100px;
+    background-color: burlywood;
+    justify-content: center;
+    align-items: center;
     margin-bottom: 10px;
-    line-height: 2.0;
-    font-family: 'Roboto', sans-serif;
-    font-size: 18px; 
-    font-weight: normal;
-           
 }
